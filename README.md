@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/tiny-scientists-developing-ai-using-machine-learning-brain-computing-data-flat-vector-illustration-artificial-intelligence-technology-science-concept-banner-website-design-landing-web-page_74855-22578.jpg?w=2000">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarvarandekar&label=Profile%20views&color=0e75b6&style=flat" alt="sagarvarandekar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarvarandekar" alt="sagarvarandekar" /></a> </p>
 
 - 🔭 I’m currently working on **Book Recommender System**
 
