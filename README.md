@@ -1,7 +1,7 @@
 [![MasterHead](https://patentbusinesslawyer.com/wp-content/uploads/2019/04/Machine-Learning-Basics-%E2%80%93-Patent-Claim-Charts-%E2%80%93-Case-Study-1.png)]
 <h1 align="center">Hi 👋, I'm Sagar Varandekar</h1>
 <h3 align="center">A Data Science Enthusiast from India</h3>
-img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/tiny-scientists-developing-ai-using-machine-learning-brain-computing-data-flat-vector-illustration-artificial-intelligence-technology-science-concept-banner-website-design-landing-web-page_74855-22578.jpg?w=2000"
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/tiny-scientists-developing-ai-using-machine-learning-brain-computing-data-flat-vector-illustration-artificial-intelligence-technology-science-concept-banner-website-design-landing-web-page_74855-22578.jpg?w=2000">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarvarandekar&label=Profile%20views&color=0e75b6&style=flat" alt="sagarvarandekar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarvarandekar" alt="sagarvarandekar" /></a> </p>
